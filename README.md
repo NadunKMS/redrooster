@@ -16,7 +16,7 @@ Redrooster is an e-commerce platform designed for a farm. This repository contai
 3. Create a new MySQL database named `redrooster`.
 4. Import the provided SQL file into the `redrooster` database.
 5. Open your terminal and navigate to the project directory.
-6. Run the following command to start the server:
+6. Run the following command to start worling with Tailwind css:
 
 ```bash
 npm run dev
@@ -45,14 +45,11 @@ Below are the predefined roles for staff members along with their login credenti
 
 ## Access
 
-You can access the Redrooster e-commerce platform at [redrooster.rf.gd](redrooster.rf.gd).
+You can access the Redrooster e-commerce platform at [redrooster.rf.gd](redrooster.rf.gd)
 
-## Support
+#### Used Stack
+PHP<br>
+MYSQL<br>
+Tailwind CSS<br>
 
-For any issues or inquiries, please contact us at [support@redrooster.com](mailto:support@redrooster.com).
-
-Feel free to contribute to this project by submitting pull requests or reporting issues on the GitHub repository. We appreciate your contributions!
-
----
-
-This README provides a concise guide to installing and using the Redrooster e-commerce platform. For more detailed information, please refer to the documentation or contact support.
+ ### Thank you!
