@@ -45,7 +45,7 @@ Below are the predefined roles for staff members along with their login credenti
 
 ## Access
 
-You can access the Redrooster e-commerce platform at [redrooster.rf.gd](redrooster.rf.gd)
+You can access the Redrooster e-commerce platform at [redrooster.rf.gd](https://redrooster.rf.gd)
 
 #### Used Stack
 PHP<br>
